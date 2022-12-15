@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: "Projeto Spreing Boot"
+
+universitiesBaseURL : http://universities.hipolabs.com
